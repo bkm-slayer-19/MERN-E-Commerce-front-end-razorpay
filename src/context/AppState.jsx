@@ -7,7 +7,6 @@ import "react-toastify/dist/ReactToastify.css";
 const AppState = (props) => {
   // const url = "http://localhost:1000/api";
 
-  // const url = "https://mern-e-commerce-api-youtube.onrender.com/api";
   const url = "https://mern-e-commerce-api-3.onrender.com/api";
 
 
